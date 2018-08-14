@@ -1,6 +1,5 @@
 # DataScience_Assignment_6
 
-# This repository belongs to problems stated in Assignment 6 
 
 # Problem Statement
 Problem Statement 1:
