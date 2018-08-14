@@ -12,3 +12,7 @@ to the power of N - i - 1.
 
 HINT: Such a matrix with a geometric progression in each row is named for Alexandre-
 Theophile Vandermonde.
+
+# Note :
+1. Please refer Screenshot directory for output of Screenshot 
+2. Please refer Sourcecode directory for Pyhton Sourcecode file
